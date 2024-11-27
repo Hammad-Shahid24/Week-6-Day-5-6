@@ -1,7 +1,6 @@
 import { FC } from "react";
 import ErrorBoundary from "./components/ErrorBoundary";
 import Layout from "./components/Layout";
-import ProductCataloguePage from "./pages/ProductCataloguePage";
 import ProductCataloguePage2 from "./pages/ProductCataloguePage2";
 import AuthPage from "./pages/AuthPage";
 import Header from "./components/Header";

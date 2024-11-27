@@ -1,4 +1,4 @@
-import { FC, useEffect, useState } from "react";
+import { FC, useState } from "react";
 import { useDispatch } from "react-redux";
 import { login } from "../redux/auth/authSlice";
 import { AuthFormProps } from "../types/Auth";
